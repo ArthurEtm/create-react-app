@@ -36,7 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
 .myPhotos {
+  height: 300px;
   margin-top: 50px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
